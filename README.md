@@ -1,7 +1,4 @@
-### Assets: 
-```
-innocent merit harbor rifle autumn cart corn wonder voice forward plastic embody
-```
+
 ## Run-book
 1. Contract install, compile, deploy
 ```
